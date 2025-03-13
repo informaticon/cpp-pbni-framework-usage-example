@@ -4,4 +4,4 @@ Example of how to use https://github.com/informaticon/lib.cpp.base.pbni-framewor
 The interesting part lives in the [src](./src) directory
 
 ## Usage
-For building and usage Instructions check out [](https://github.com/informaticon/div.cpp.base.pbni-extension-template#setting-up-an-environment)
+For building and usage Instructions check out [PBNI Extension Template](https://github.com/informaticon/div.cpp.base.pbni-extension-template#setting-up-an-environment)
